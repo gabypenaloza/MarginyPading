@@ -1,10 +1,12 @@
 /* Agrega aqui tu CSS */
 div{
 	width: 200px;
-	border: #FF7933 2px solid;
-    background-color: #fff;
+	border: #FF7933 10px ridge;
+    background-color: #F5F6CE;
+    padding: 10px;
     margin-left: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    color: #B43104;
+
 }
-
-
-
